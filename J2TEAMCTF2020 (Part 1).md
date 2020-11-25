@@ -5,7 +5,7 @@ Writeup cho các challenges của cuộc thi J2TEAMCTF
 
  | Title | Flag |
  | ------ | ------ |
- | [Challenge 1](#1-Challenge 1) |  |
+ | [Challenge 1](#1-Challenge1) |  |
  | [Challenge 2] |  |
  | [Challenge 3] |  |
  | [Challenge 4] |  |
@@ -26,5 +26,5 @@ Writeup cho các challenges của cuộc thi J2TEAMCTF
  | [Challenge 19] |  |
  | [Challenge 20] |  |
  
- # 1. Challenge 1
+ # 1. Challenge1
  
